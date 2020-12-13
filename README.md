@@ -5,9 +5,9 @@
 Here is the visual perception demo for the ClosedLoops.Tec.  
 
 
-<h1 align="center">
+<div align="center">
 ![](demo.gif)
-</h1>
+</div>
 
 
 ## How to finish it?
