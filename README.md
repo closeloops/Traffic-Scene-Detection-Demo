@@ -5,9 +5,8 @@
 Here is the visual perception demo for the ClosedLoops.Tec.  
 
 
-<div align="center">
-![](https://github.com/closeloops/Traffic-Scene-Detection-Demo/blob/main/demo.gif)
-</div>
+![](demo.gif)
+
 
 
 ## How to finish it?
